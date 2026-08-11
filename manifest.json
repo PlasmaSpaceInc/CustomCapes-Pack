@@ -7,7 +7,7 @@ Code §7By §3MrJosh04
 §rDistributed by: §dPlasma§eSpace §3Studios §1Inc.
 §9§lWebSites: §r §bPlasmaSpaceStudios.com §r& §bEntert.PlasmaSpaceStudios.com",
     "name": "§eCapes§aCustom §bv1.3",
-    "uuid": "33e6525c-1546-4bd7-86ca-e5120c466112",
+    "uuid": "00000000-0000-0000-0000-000000000000",
     "version": [
       0,
       0,
@@ -31,7 +31,7 @@ Code §7By §3MrJosh04
         0,
         1
       ],
-      "uuid": "5d086fc5-6e4b-4429-840e-0d6f4f1dcecb",
+      "uuid": "00000000-0000-0000-0000-000000000000",
       "type": "resources"
         }
    ],
@@ -44,42 +44,42 @@ Code §7By §3MrJosh04
         {
             "folder_name":  "cape1",
 			"memory_tier": 1,
-            "name":  "Cape:   §5P§6S§bStudios"
+            "name":  "Cape: Test1 "
         },
 		{
             "folder_name":  "cape2",
 			"memory_tier": 1,
-            "name":  "Cape:§e Moustache"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape3",
 			"memory_tier": 1,
-            "name":  "Cape:§3 Penguin"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape4",
 			"memory_tier": 1,
-            "name":  "Cape:§6 Halloween"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape5",
 			"memory_tier": 1,
-            "name":  "Cape:§6 PVZ"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape6",
 			"memory_tier": 1,
-            "name":  "Cape:§3 JackoLantern"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape7",
 			"memory_tier": 1,
-            "name":  "Cape:§7 GhostFace"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape8",
 			"memory_tier": 1,
-            "name":  "Cape:§4 GhostRider"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape9",
@@ -89,107 +89,107 @@ Code §7By §3MrJosh04
     {
             "folder_name":  "cape10",
 			"memory_tier": 1,
-            "name":  "Cape:§c Dracula"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape11",
 			"memory_tier": 1,
-            "name":  "Cape:§b Lightning"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape12",
 			"memory_tier": 1,
-            "name":  "Cape:§1 Universe"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape13",
 			"memory_tier": 1,
-            "name":  "Cape:§e Music"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape14",
 			"memory_tier": 1,
-            "name":  "Cape:§7 Panda"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape15",
 			"memory_tier": 1,
-            "name":  "Cape:§9 suit"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape16",
 			"memory_tier": 1,
-            "name":  "Cape:§6 Face"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape17",
 			"memory_tier": 1,
-            "name":  "Cape:§c You§7Tube"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape18",
 			"memory_tier": 1,
-            "name":  "Cape:§d Puppy"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape19",
 			"memory_tier": 1,
-            "name":  "Cape:§b ChikenBoy"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape20",
 			"memory_tier": 1,
-            "name":  "Cape:§b ChikenGirl"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape21",
 			"memory_tier": 1,
-            "name":  "Cape:§e Champagne"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape22",
 			"memory_tier": 1,
-            "name":  "Cape:§5 Cherry"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape23",
 			"memory_tier": 1,
-            "name":  "Cape:§a Bobicraft"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape24",
 			"memory_tier": 1,
-            "name":  "Cape:§c CupidHeart"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape25",
 			"memory_tier": 1,
-            "name":  "Cape:§5 VDayTeddyBear"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape26",
 			"memory_tier": 1,
-            "name":  "Cape:§d ValentinesHeartst"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape27",
 			"memory_tier": 1,
-            "name":  "Cape:§d VDayHeartBaloons"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape28",
 			"memory_tier": 1,
-            "name":  "Cape:§d Lovers §6Sunset"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape29",
 			"memory_tier": 1,
-            "name":  "Cape:§d LoveHeartred"
+            "name":  "Cape:  "
         },
     {
             "folder_name":  "cape30",
 			"memory_tier": 1,
-            "name":  "Cape:§d Love§6Bear"
+            "name":  "Cape:  g"
         }
     ],
 	"metadata": {
