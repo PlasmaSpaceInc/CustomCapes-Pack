@@ -1,0 +1,202 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "§eCapes§aCustom §rby §5§lPlasma§6Space §3Studios
+Code §7By §3MrJosh04
+§rPublished By: §dPlasma§eSpace §3Entertainment
+§rDistributed by: §dPlasma§eSpace §3Studios §1Inc.
+§9§lWebSites: §r §bPlasmaSpaceStudios.com §r& §bEntert.PlasmaSpaceStudios.com",
+    "name": "§eCapes§aCustom §bv1.3",
+    "uuid": "33e6525c-1546-4bd7-86ca-e5120c466112",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      2,
+      6
+    ]
+  },
+  "modules": [
+    {
+      "description": "§eCapes§aCustom §rby §5§lPlasma§6Space §3Studios
+Code §7By §3MrJosh04
+§rPublished By: §dPlasma§eSpace §3Entertainment
+§rDistributed by: §dPlasma§eSpace §3Studios §1Inc.
+§9§lWebSites: §r §bPlasmaSpaceStudios.com §r& §bEntert.PlasmaSpaceStudios.com",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "uuid": "5d086fc5-6e4b-4429-840e-0d6f4f1dcecb",
+      "type": "resources"
+        }
+   ],
+	"subpacks":  [
+        {
+            "folder_name":  "custom",
+			"memory_tier": 1,
+            "name":  "Cape:§l [Design your own Cape]"
+        },
+        {
+            "folder_name":  "cape1",
+			"memory_tier": 1,
+            "name":  "Cape:   §5P§6S§bStudios"
+        },
+		{
+            "folder_name":  "cape2",
+			"memory_tier": 1,
+            "name":  "Cape:§e Moustache"
+        },
+    {
+            "folder_name":  "cape3",
+			"memory_tier": 1,
+            "name":  "Cape:§3 Penguin"
+        },
+    {
+            "folder_name":  "cape4",
+			"memory_tier": 1,
+            "name":  "Cape:§6 Halloween"
+        },
+    {
+            "folder_name":  "cape5",
+			"memory_tier": 1,
+            "name":  "Cape:§6 PVZ"
+        },
+    {
+            "folder_name":  "cape6",
+			"memory_tier": 1,
+            "name":  "Cape:§3 JackoLantern"
+        },
+    {
+            "folder_name":  "cape7",
+			"memory_tier": 1,
+            "name":  "Cape:§7 GhostFace"
+        },
+    {
+            "folder_name":  "cape8",
+			"memory_tier": 1,
+            "name":  "Cape:§4 GhostRider"
+        },
+    {
+            "folder_name":  "cape9",
+			"memory_tier": 1,
+            "name":  "Cape:§f Mummy"
+        },
+    {
+            "folder_name":  "cape10",
+			"memory_tier": 1,
+            "name":  "Cape:§c Dracula"
+        },
+    {
+            "folder_name":  "cape11",
+			"memory_tier": 1,
+            "name":  "Cape:§b Lightning"
+        },
+    {
+            "folder_name":  "cape12",
+			"memory_tier": 1,
+            "name":  "Cape:§1 Universe"
+        },
+    {
+            "folder_name":  "cape13",
+			"memory_tier": 1,
+            "name":  "Cape:§e Music"
+        },
+    {
+            "folder_name":  "cape14",
+			"memory_tier": 1,
+            "name":  "Cape:§7 Panda"
+        },
+    {
+            "folder_name":  "cape15",
+			"memory_tier": 1,
+            "name":  "Cape:§9 suit"
+        },
+    {
+            "folder_name":  "cape16",
+			"memory_tier": 1,
+            "name":  "Cape:§6 Face"
+        },
+    {
+            "folder_name":  "cape17",
+			"memory_tier": 1,
+            "name":  "Cape:§c You§7Tube"
+        },
+    {
+            "folder_name":  "cape18",
+			"memory_tier": 1,
+            "name":  "Cape:§d Puppy"
+        },
+    {
+            "folder_name":  "cape19",
+			"memory_tier": 1,
+            "name":  "Cape:§b ChikenBoy"
+        },
+    {
+            "folder_name":  "cape20",
+			"memory_tier": 1,
+            "name":  "Cape:§b ChikenGirl"
+        },
+    {
+            "folder_name":  "cape21",
+			"memory_tier": 1,
+            "name":  "Cape:§e Champagne"
+        },
+    {
+            "folder_name":  "cape22",
+			"memory_tier": 1,
+            "name":  "Cape:§5 Cherry"
+        },
+    {
+            "folder_name":  "cape23",
+			"memory_tier": 1,
+            "name":  "Cape:§a Bobicraft"
+        },
+    {
+            "folder_name":  "cape24",
+			"memory_tier": 1,
+            "name":  "Cape:§c CupidHeart"
+        },
+    {
+            "folder_name":  "cape25",
+			"memory_tier": 1,
+            "name":  "Cape:§5 VDayTeddyBear"
+        },
+    {
+            "folder_name":  "cape26",
+			"memory_tier": 1,
+            "name":  "Cape:§d ValentinesHeartst"
+        },
+    {
+            "folder_name":  "cape27",
+			"memory_tier": 1,
+            "name":  "Cape:§d VDayHeartBaloons"
+        },
+    {
+            "folder_name":  "cape28",
+			"memory_tier": 1,
+            "name":  "Cape:§d Lovers §6Sunset"
+        },
+    {
+            "folder_name":  "cape29",
+			"memory_tier": 1,
+            "name":  "Cape:§d LoveHeartred"
+        },
+    {
+            "folder_name":  "cape30",
+			"memory_tier": 1,
+            "name":  "Cape:§d Love§6Bear"
+        }
+    ],
+	"metadata": {
+        "authors": [
+            "PlasmaSpace Studios Inc."
+        ],
+        "license": "License.pdf",
+        "url": "https://plasmaspacestudios.com/license/"
+    }
+}
