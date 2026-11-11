@@ -1,0 +1,66 @@
+{
+	"namespace": "start",
+
+	"esbe_panel": {
+		"type": "stack_panel",
+		"orientation": "horizontal",
+		"size": ["100%",256],
+		"offset": [4,4],
+		"controls": [
+			{
+				"l":{
+					"type": "stack_panel",
+					"size": [132,"100%"],
+					"controls": [
+						{"i": {"type": "image","texture": "CapesCustom","size": [128,128]}},
+						{"s": {"type": "panel","size": [6,6]}},
+						{"v": {"type": "label","font_scale_factor": 1.5,"text": "§aCustom§eCapes"}},
+						{"c": {"type": "label","font_scale_factor": 1.2,"text": "§f§lv1.4"}}
+					]
+				}
+			},
+			{
+				"r":{
+					"type": "stack_panel",
+					"size": ["fill","100%"],
+					"controls": [
+						{"n": {"type": "label","font_scale_factor": 1.5,"text": "§aCustom§eCapes\n§7for §bBedrock Edition\n ---\n "}},
+						{"l": {"type": "label","text": "©2020 - 2027~ PlasmaSpaceStudios Inc.\n§rAll Rights Reserved.®\nSee 'the Credits folder'.\n \n§6URL"}},
+						{"u": {"type": "label","font_scale_factor": 0.8,"text": "§bOfficialWeb §r: Entert.PlasmaSpaceStudios.com\n 
+"}},
+						{"0": {"type": "label","text": ""}},
+						{"1": {"type": "label","text": ""}},
+						{"2": {"type": "label","text": ""}},
+{"3": {"type": "label","text": ""}},
+{"4": {"type": "label","text": "!!Warning!!"}},
+{"5": {"type": "label","text": "We recommend that you do not install"}},
+{"6": {"type": "label","text": "this CapePack on a low-end mobile device."}},
+{"7": {"type": "label","text": "If you want better performance with the"}},
+{"8": {"type": "label","text": "Addon, we recommend that"}},
+{"9": {"type": "label","text": "Have 4 GB of at least a RAM."}}
+					]
+				}
+			}
+		]
+	},
+	"realisticpack_scroll@common.scrolling_panel":{"$show_background": false,"$scrolling_content": "start.esbe_panel"},
+	"esbe_main@common_dialogs.main_panel_no_buttons":{"size":["80%","80%"],"$text_name":"§aCustom§eCapes §3info","$child_control":"start.realisticpack_scroll"},
+
+	"realisticpack_start": {
+		"type": "stack_panel",
+		"orientation": "horizontal",
+		"controls": [
+			{"ico": {"type": "image","texture": "CapesCustom","size": [20,20]}},
+			{"ver": {"type": "label","text": "§b CapesPack\n§a v1.4"}}
+		]
+	},
+	"copyright@common_buttons.light_content_button": {
+		"anchor_from": "bottom_left",
+		"anchor_to": "bottom_left",
+		"size": [78,26],
+		"$pressed_button_name": "button.menu_buy_game",
+		"$button_content": "start.realisticpack_start",
+		"$default_button_alpha": 0.5,
+		"$default_hover_alpha": 0.5
+	}
+}
